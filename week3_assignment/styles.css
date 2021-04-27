@@ -1,0 +1,77 @@
+body {
+	font-family: helvetica;
+}
+
+
+
+
+	
+#header-nav {
+  background-color: gray;
+  border-radius: 0;
+  border: 0;
+}
+
+#collapsible-nav{
+	color: white;
+	background-color: gray;
+	font-size: 15px;
+	margin-top: 10px
+	}
+
+#logo-img {
+	background: url('/Foodlogo.png') no-repeat;
+	width: 300px;
+	height: 67px;
+	margin-top: 10px;
+}
+
+.container {
+	margin-left: none;
+	margin-right: none;
+	width: 100%;
+}
+
+.glyphicon{
+	color: white;
+	font-size:35px;
+}
+
+#nav-list {
+	color: white;
+
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid white;
+	
+}	
+
+.navbutton{
+	color: white;
+	text-align: center;
+}
+
+#collapse-button {
+	margin-top: 50px;
+}
+
+.tile{
+	background-color: gray;
+	height: 1000px;
+	padding-left: 5px;
+	position: relative;
+	border: 10px solid white;
+	/*overflow: hidden;*/
+}
+
+
+
+p {color: white;}
+
+
+
+.return{
+	position: absolute;
+	bottom: 0px;
+}
